@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-Demo live website [blog-preview-card]()
+Demo live website [blog-preview-card](https://blog-preview-card-one-brown.vercel.app/)
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
